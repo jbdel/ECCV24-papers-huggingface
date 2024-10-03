@@ -3,7 +3,9 @@
 Welcome to the ECCV 2024 Papers repository! Below is a list of all accepted papers with their details.
 
 
-Use it via API! [Documentation here](https://huggingface.co/spaces/ECCV/ECCV2024-papers?view=api)
+<b>The README at ECCV24-papers-huggingface is truncated, please follow [ECCV24-papers-huggingface/blob/main/README.md](ECCV24-papers-huggingface/blob/main/README.md) for full list.
+
+Use it via API! [Documentation here.](https://huggingface.co/spaces/ECCV/ECCV2024-papers?view=api)
 ```python
 from gradio_client import Client
 import json
