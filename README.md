@@ -3,7 +3,7 @@
 Welcome to the ECCV 2024 Papers repository! Below is a list of all accepted papers with their details.
 
 
-<b>The README at ECCV24-papers-huggingface is truncated, please follow [ECCV24-papers-huggingface/blob/main/README.md](README.md) for full list.
+<b>The README preview is truncated, please follow [ECCV24-papers-huggingface/blob/main/README.md](README.md) for full list.</b>
 
 Use it via API! [Documentation here](https://huggingface.co/spaces/ECCV/ECCV2024-papers?view=api).
 ```python
